@@ -1,4 +1,4 @@
-#Вывести длину строки "hello".
+# Вывести длину строки "hello".
 ```
 function lengthString(text) {
     return text.length
