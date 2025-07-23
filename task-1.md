@@ -1,4 +1,4 @@
-# Вывести длину строки "hello".
+# Berlen sozin uzunlygyny cap etmek".
 ```
 function lengthString(text) {
     return text.length
