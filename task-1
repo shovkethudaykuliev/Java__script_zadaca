@@ -1,0 +1,7 @@
+#Вывести длину строки "hello".
+```
+function lengthString(text) {
+    return text.length
+}
+console.log(lengthString("hello"));
+```
