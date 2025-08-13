@@ -6,5 +6,6 @@ function toComparyWords(text1,text2) {
     }
     return "No"
 }
-console.log(toComparyWords("Shovket","Shocket"));
+console.log(toComparyWords("Text","Word"));
 ```
+#### su testde jogap "No"cykya sebabi iki text den daldirler
