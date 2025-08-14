@@ -3,5 +3,5 @@
 function firstSymbol(text) {
     return text[0]
 }
-console.log(firstSymbol("Shovket"));
+console.log(firstSymbol("RandomText"));
 ```
