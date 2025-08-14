@@ -9,5 +9,5 @@ function deleteWork(text) {
     }
     return str
 }
-console.log(deleteWork("Shovketokuwcy"));
+console.log(deleteWork("RandomText"));
 ```
