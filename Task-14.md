@@ -12,5 +12,5 @@ function firstSymbol(text) {
         }
     }
 }
-firstSymbol("Menin adym Shovket");
+firstSymbol("Hello how are you What are you doing");
 ```
