@@ -9,4 +9,5 @@ function empty(text) {
     }
 }
 console.log(empty(" "));
+console.log(empty("RandomText"));
 ```
