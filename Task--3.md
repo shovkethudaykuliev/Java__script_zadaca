@@ -4,5 +4,5 @@ function connect(text) {
     let s=text.length;
     return s
 }
-console.log(connect("Setir"));
+console.log(connect("RandomText"));
 ```
