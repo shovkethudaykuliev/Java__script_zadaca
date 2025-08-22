@@ -9,5 +9,5 @@ function cutWord(text) {
     }
     return s
 }
-console.log(cutWord("Programirleme"));
+console.log(cutWord("RandomText"));
 ``` 
