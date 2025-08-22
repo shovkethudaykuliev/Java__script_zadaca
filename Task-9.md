@@ -14,5 +14,5 @@ function wordLength(text) {
         }
     } 
 }
-wordLength("itrmrtin                            erfkterokferr                rtdfgttreefgrerfdg                        rtdfsdre")
+wordLength("RandomText")
 ```
