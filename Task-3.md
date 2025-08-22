@@ -15,5 +15,5 @@ function  howManySymbol(text) {
  }       
  return k
 }
-console.log(howManySymbol("TGET;!@#$%@nifdf"));
+console.log(howManySymbol("RandomText"));
 ```
